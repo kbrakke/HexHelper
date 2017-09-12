@@ -2,117 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b9def3-6c6f-42eb-b766-fa0c1a795bdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexhelper/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.flowconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/data-fetching.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/getting-started.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/how-to-configure-text-editors.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/react-style-guide.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/how-to-implement-routing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/how-to-integrate-disqus.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/recipes/using-npm-and-webpack-as-a-build-tool.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/preprocessor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/actions/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/App.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/App/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContactPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/ContentPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/ContentPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ContentPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/ErrorPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/ErrorPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/ErrorPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/Feedback.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/Feedback.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Feedback/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/Footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/Header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/logo-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/logo-small@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Link/Link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Link/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/LoginPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigation/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/NotFoundPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/NotFoundPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/NotFoundPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/RegisterPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/RegisterPage.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/RegisterPage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/TextBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/TextBox.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/TextBox/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/withViewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/constants/ActionTypes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/about.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/index.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/content/privacy.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/DOMUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/Location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/fetch.client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/fetch.server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/fetch/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/passport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/queries/content.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/queries/me.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/schema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/types/ContentType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/types/UserType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/humans.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/tile-wide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/stores/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/views/error.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/views/index.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/clean.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/copy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/deploy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/lib/fetch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/lib/fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/run.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/runServer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/start.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/webpack.config.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexhelper/src/Dashboard.js" afterPath="$PROJECT_DIR$/hexhelper/src/Dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js" afterPath="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -126,17 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexhelper/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -146,31 +29,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="hexagon_icon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexhelper/public/hexagon_icon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexhelper/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2142">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -186,11 +56,28 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexhelper/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexhelper/public/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexhelper/src/Dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -198,34 +85,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HexHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js">
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hexhelper/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/build/manifest.json">
+      <file leaf-file-name="HexHeader.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="374">
+              <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding>
-                <marker date="1504815209805" expanded="true" signature="0:297" ph="{&quot;name&quot;: &quot;Create React App Sample&quot;...}" />
-                <marker date="1504815209805" expanded="true" signature="79:176" ph="[...]" />
-                <marker date="1504815209805" expanded="true" signature="85:172" ph="{&quot;src&quot;: &quot;hexagon_icon.ico&quot;...}" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexhelper/build/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="HexHeader.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -235,6 +123,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -250,9 +139,10 @@
         <option value="$PROJECT_DIR$/hexhelper/src/App.js" />
         <option value="$PROJECT_DIR$/hexhelper/build/manifest.json" />
         <option value="$PROJECT_DIR$/hexhelper/src/index.js" />
-        <option value="$PROJECT_DIR$/hexhelper/src/Dashboard.js" />
-        <option value="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js" />
         <option value="$PROJECT_DIR$/hexhelper/.gitignore" />
+        <option value="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.css" />
+        <option value="$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js" />
+        <option value="$PROJECT_DIR$/hexhelper/src/Dashboard.js" />
       </list>
     </option>
   </component>
@@ -314,20 +204,7 @@
               <item name="HexHelper" type="b2602c69:ProjectViewProjectNode" />
               <item name="HexHelper" type="462c0819:PsiDirectoryNode" />
               <item name="hexhelper" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HexHelper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HexHelper" type="462c0819:PsiDirectoryNode" />
-              <item name="hexhelper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HexHelper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HexHelper" type="462c0819:PsiDirectoryNode" />
-              <item name="hexhelper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Hex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,6 +229,13 @@
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.standard" value="C:\Users\Kris\Documents\GitHub\HexHelper\hexhelper\node_modules\eslint" />
     <property name="standardjs.codestyle.accepted" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kris\Documents\GitHub\HexHelper\hexhelper" />
+      <recent name="C:\Users\Kris\Documents\GitHub\HexHelper\hexhelper\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -375,18 +259,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504808115279</updated>
-      <workItem from="1504808117351" duration="9378000" />
+      <workItem from="1504808117351" duration="19559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9378000" />
+    <option name="totallyTimeSpent" value="19559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529481" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529481" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -415,11 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hexhelper/public/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hexhelper/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -492,14 +370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexhelper/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hexhelper/build/asset-manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -533,6 +403,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2142">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/public/hexagon_icon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hexhelper/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -549,36 +453,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexhelper/README.md">
+    <entry file="file://$PROJECT_DIR$/hexhelper/public/forestHex.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2142">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexhelper/src/Dashboard.js">
+    <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexhelper/src/Hex/HexHeader.js">
+    <entry file="file://$PROJECT_DIR$/hexhelper/src/Dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexhelper/.gitignore">
+    <entry file="file://$PROJECT_DIR$/hexhelper/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>

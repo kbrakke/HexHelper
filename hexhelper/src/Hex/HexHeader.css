@@ -1,0 +1,19 @@
+h2, h3 {
+    display: inline;
+}
+
+.terrain-icon {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    align-items: center;
+}
+
+header {
+    background-color: aliceblue;
+}
+
+table, td {
+    margin: 10px;
+    display: inline;
+}
